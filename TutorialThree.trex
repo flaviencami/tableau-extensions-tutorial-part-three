@@ -7,7 +7,7 @@
     <author name="Toan Hoang" email="admin@tableaumagic.com" organization="Tableau Magic" website="https://www.tableaumagic.com"/>
     <min-api-version>0.9</min-api-version>
     <source-location>
-      <url>http://localhost:8080</url>
+      <url>https://flaviencami.github.io/tableau-extensions-tutorial-part-three/</url>
     </source-location>
     <icon>iVBORw0KGgoAAAANSUhEUgAAAEAAAABAAQMAAACQp+OdAAAABlBMVEUAAAAAAAClZ7nPAAAAAXRSTlMAQObYZgAAACdJREFUKJFjYKAS+EA04z8hxn9qMfg/UIEBJAcVg4hw/g8F+BhUAgCAtrS1v85ACwAAAABJRU5ErkJggg==</icon>
     <permissions>
